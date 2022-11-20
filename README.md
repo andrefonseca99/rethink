@@ -17,6 +17,7 @@
 # Programming Languages 💻
  - ✔ Typescript
  - ✔ JavaScript
+ - ✔ React.Js
 
 # Author 😎
 
